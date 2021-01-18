@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 291,
-    "timeWeek": 291,
-    "timeMonth": 291,
-    "timeYear": 291,
+    "time": 294,
+    "timeDay": 294,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   },
   {
@@ -28,51 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 419,
-    "timeWeek": 419,
-    "timeMonth": 419,
-    "timeYear": 419,
+    "time": 403,
+    "timeDay": 403,
+    "timeWeek": 403,
+    "timeMonth": 403,
+    "timeYear": 403,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "API.PINTO.DEV",
-    "url": "https://api.pinto.dev",
-    "icon": "https://favicons.githubusercontent.com/api.pinto.dev",
-    "slug": "api-pinto-dev",
-    "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-01-18": 9
-    }
-  },
-  {
-    "name": "POST to Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "post-to-google",
-    "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
-    "time": 25,
-    "timeDay": 25,
-    "timeWeek": 25,
-    "timeMonth": 25,
-    "timeYear": 25,
-    "dailyMinutesDown": {
-      "2021-01-18": 9
-    }
   }
 ]
