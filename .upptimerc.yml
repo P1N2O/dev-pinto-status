@@ -8,11 +8,11 @@ sites:
     url: https://pinto.dev
   - name: LAB.PINTO.DEV
     url: https://lab.pinto.dev
-  - name: API.PINTO.DEV
-    url: https://api.pinto.dev
-  - name: POST to Google
-    url: https://www.google.com
-    method: POST
+#   - name: API.PINTO.DEV
+#     url: https://api.pinto.dev
+#   - name: POST to Google
+#     url: https://www.google.com
+#     method: POST
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -21,7 +21,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: PINTO.DEV — Status
-  introTitle: "Real-time status of **PINTO.DEV** end-points."
+  introTitle: "Track Real-time status of **[PINTO.DEV](https://pinto.dev "PINTO.DEV — Home Page")** end-points"
 #   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: GitHub
