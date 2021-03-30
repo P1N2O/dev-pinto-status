@@ -5,17 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/pinto.dev",
     "slug": "pinto-dev",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 432,
-    "timeDay": 217,
-    "timeWeek": 608,
-    "timeMonth": 446,
+    "timeDay": 484,
+    "timeWeek": 532,
+    "timeMonth": 447,
     "timeYear": 432,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-18": 9
+    }
   },
   {
     "name": "LAB.PINTO.DEV",
@@ -23,16 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/lab.pinto.dev",
     "slug": "lab-pinto-dev",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 186,
-    "timeDay": 101,
-    "timeWeek": 268,
-    "timeMonth": 160,
+    "timeDay": 211,
+    "timeWeek": 260,
+    "timeMonth": 162,
     "timeYear": 186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-18": 9
+    }
   }
 ]
