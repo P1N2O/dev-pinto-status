@@ -10,11 +10,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 388,
-    "timeDay": 232,
-    "timeWeek": 227,
-    "timeMonth": 306,
-    "timeYear": 388,
+    "time": 387,
+    "timeDay": 280,
+    "timeWeek": 224,
+    "timeMonth": 305,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2021-07-07": 25
     }
@@ -26,17 +26,15 @@
     "slug": "lab-pinto-dev",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 5167,
-    "timeWeek": 1829,
-    "timeMonth": 734,
-    "timeYear": 303,
-    "dailyMinutesDown": {
-      "2021-07-12": 6
-    }
+    "time": 304,
+    "timeDay": 5226,
+    "timeWeek": 1849,
+    "timeMonth": 735,
+    "timeYear": 304,
+    "dailyMinutesDown": {}
   }
 ]
