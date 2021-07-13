@@ -24,17 +24,19 @@
     "url": "https://lab.pinto.dev",
     "icon": "https://favicons.githubusercontent.com/lab.pinto.dev",
     "slug": "lab-pinto-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 5226,
-    "timeWeek": 1849,
-    "timeMonth": 735,
-    "timeYear": 304,
-    "dailyMinutesDown": {}
+    "time": 384,
+    "timeDay": 7714,
+    "timeWeek": 3182,
+    "timeMonth": 1172,
+    "timeYear": 384,
+    "dailyMinutesDown": {
+      "2021-07-13": 0
+    }
   }
 ]
