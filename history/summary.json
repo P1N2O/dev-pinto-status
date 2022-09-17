@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 269,
-    "timeDay": 308,
-    "timeWeek": 262,
-    "timeMonth": 262,
+    "timeDay": 186,
+    "timeWeek": 255,
+    "timeMonth": 260,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2022-06-29": 27,
@@ -27,18 +27,19 @@
     "icon": "https://favicons.githubusercontent.com/lab.pinto.dev",
     "slug": "lab-pinto-dev",
     "status": "down",
-    "uptime": "84.30%",
+    "uptime": "84.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.96%",
+    "uptimeYear": "73.69%",
     "time": 446,
-    "timeDay": 598,
+    "timeDay": 575,
     "timeWeek": 561,
-    "timeMonth": 556,
-    "timeYear": 427,
+    "timeMonth": 557,
+    "timeYear": 428,
     "dailyMinutesDown": {
-      "2022-09-16": 158,
+      "2022-09-17": 146,
+      "2022-09-16": 1440,
       "2022-09-15": 1440,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
@@ -140,8 +141,7 @@
       "2022-01-09": 20,
       "2021-12-16": 33,
       "2021-12-15": 1440,
-      "2021-12-14": 456,
-      "2021-09-17": 20
+      "2021-12-14": 456
     }
   }
 ]
